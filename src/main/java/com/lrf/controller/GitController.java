@@ -9,5 +9,6 @@ package com.lrf.controller;
 public class GitController {
     public static void main(String[] args) {
         System.out.println("测试git成功lrf");
+        System.out.println("合并分支");
     }
 }
