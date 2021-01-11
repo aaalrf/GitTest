@@ -9,5 +9,6 @@ package com.lrf.controller;
 public class GitController {
     public static void main(String[] args) {
         System.out.println("测试git成功lrf");
+        System.out.println("主分支被别人修改并推送到远程仓库");
     }
 }
